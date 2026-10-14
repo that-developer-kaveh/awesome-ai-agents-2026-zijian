@@ -761,6 +761,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [LangSmith Sandboxes](https://www.langchain.com/blog/interrupt-2026-overview) - **May 2026 (Interrupt 2026)**. Hosted secure code execution environments for agents — filesystem, shell, package manager, persistent state, and network boundary. Part of LangChain's Interrupt 2026 release alongside LangSmith Engine and Managed Deep Agents.
 - [Google Antigravity Sandbox](https://antigravity.google/changelog) - 🆕 **May 2026 (Google I/O)**. Sandboxed Linux environments for agent-executed code; ships as part of Antigravity 2.0's stack — sub-agents run in isolated containers with scoped filesystem + network access.
 - [Amazon Bedrock AgentCore Runtime Instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-bedrock-agentcore-runtime-instances-generally-available/) - 🆕 **GA August 6, 2026**. EC2-backed persistent compute for AgentCore agents — long-running agent sessions up to **14 days** (vs the 8-hour serverless microVM cap), with GPU-accelerated, memory-optimized, and compute-optimized instance families via capacity providers; no change to the deploy/invoke path. 9 regions at launch.
+- [Latchkey](https://latchkey.dev) - 🆕 💰 Hosted self-healing GitHub Actions runners with an MCP server and CLI that let coding agents run commands on fresh ephemeral Linux runners and read CI failure bundles.
 
 ---
 
